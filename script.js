@@ -12,7 +12,7 @@ for (let i = 0; i < numMas.length; ++i) {
 
 console.log(mult);
 
-mult **= 2;
+mult **= 3;
 
 console.log(mult);
 
